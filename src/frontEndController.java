@@ -1,7 +1,5 @@
 /**
  * Created by lostw on 10/28/2016.
- *
- * Controller for scenebuilder.
  */
 /**
  * Sample Skeleton for 'ComplexApplication_css.fxml' Controller Class
@@ -13,7 +11,7 @@ import javafx.fxml.FXML;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
-public class frontEnd {
+public class frontEndController {
 
     @FXML // ResourceBundle that was given to the FXMLLoader
     private ResourceBundle resources;
